@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ImageViewer version="1.1">
+		<MainWindow skin="main.jpg">
+				<ImageBox xpos="500" ypos="500" width="582" height="446"/>
+		</MainWindow>
+</ImageViewer>
